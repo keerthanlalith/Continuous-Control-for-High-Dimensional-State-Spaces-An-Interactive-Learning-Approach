@@ -22,6 +22,12 @@ Then, the files in the `gym` folder of this repository should be replaced/added 
 2. **Car Racing:** the same CarRacing environment of Gym with some bug fixes and modifications in the main loop for database generation.
 
 ### Requirements
+
+use the following command to install all requirements 
+```bash
+pip install -r requirements.txt
+```
+
 * setuptools==38.5.1
 * numpy==1.13.3
 * opencv_python==3.4.0.12
